@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, Yo Soy Luis Hanco</h1>
+<h1 align="center">Hola👋, Soy Luis Hanco</h1>
 <h3 align="center">Desarrollador web full-stack</h3>
 <img align="right" alt="coding" width='400' src="logito.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="luishanco" /> </p>
@@ -15,10 +15,10 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="28_jahid" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-khan-722690228" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luishanco" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luishanco" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahid28" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luishanco" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
