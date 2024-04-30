@@ -1,6 +1,6 @@
 <h1 align="center">Hola👋, Soy Luis Hanco</h1>
 <h3 align="center">Desarrollador web full-stack</h3>
-<img align="right" alt="coding" width='400' src="logito.png">
+<img align="right" alt="coding" width='500' src="logito.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="luishanco" /> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Devops y DSA**
