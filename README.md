@@ -5,20 +5,20 @@
 
 - 🌱 Actualmente estoy aprendiendo **Devops y DSA**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [jahidkhanportfolio.netlify.app](jahidkhanportfolio.netlify.app)
+- 👨‍💻 Todos mis proyectos están disponibles en [luishanco-portfolio.netlify.app](luishanco-portfolio.netlify.app)
 
-- 📽️ Echa un vistazo a mi canal de YT [https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA](https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA)
+- 📽️ Echa un vistazo a mi canal de YT [https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA](https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA)
 
-- 📫 Cómo contactar conmigo **techywebdev2003@gmail.com**
+- 📫 Cómo contactar conmigo **luishanco20@gmail.com**
 
 - 📄 Mi resumen [https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view](https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/28_jahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="28_jahid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jahid-khan-722690228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-khan-722690228" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jahid28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahid28" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="28_jahid" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-khan-722690228" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahid28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
