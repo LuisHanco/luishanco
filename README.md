@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biografía de Luis Hanco</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 <h1 align="center">Hola👋, Soy Luis Hanco</h1>
 <h3 align="center">Desarrollador web full-stack</h3>
 <img align="right" alt="coding" width='500' src="logito.png">
@@ -29,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid28&show_icons=true&locale=en" alt="jahid28" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid28" alt="jahid28" /></a> </p>
+
+</body>
+</html>
