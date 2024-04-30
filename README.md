@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Yo Soy Luis Hanco</h1>
 <h3 align="center">Desarrollador web full-stack</h3>
 <img align="right" alt="coding" width='400' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PMP8RkQKFWXbwIH8VqZjh9NyKUmwRjATug&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="jahid28" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="luishanco" /> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Devops y DSA**
 
