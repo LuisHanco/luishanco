@@ -286,179 +286,41 @@ footer {
         margin: 10px 0;
     }
 
-    .menu-toggle {
-      display: block;
-  }
-  
-  .col-6 {
-      flex: 0 0 100%;
-      max-width: 100%;
-  }
-  }
-  
-  /* Estilos para dispositivos móviles */
-  @media (max-width: 480px) {
-      .hero {
-          height: 400px;
-      }
-  
-      .hero-content h1 {
-          font-size: 36px;
-      }
-  
-      .hero-content p {
-          font-size: 18px;
-      }
-  
-      section h2 {
-          font-size: 28px;
-      }
-  
-      .timeline-icon {
-          width: 40px;
-          height: 40px;
-          font-size: 18px;
-      }
-  
-      .timeline-content h3 {
-          font-size: 20px;
-      }
-  }
-=======
-/* Estilos generales */
-body {
-  font-family: 'Roboto', sans-serif;
-  margin: 0;
-  padding: 0;
+.menu-toggle {
+    display: block;
 }
 
-/* Estilos del header */
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 20px 0;
+.col-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
 }
 
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1200px;
-  margin: 0 auto;
-}
+/* Estilos para dispositivos móviles */
+@media (max-width: 480px) {
+    .hero {
+        height: 400px;
+    }
 
-.logo {
-  font-size: 24px;
-  font-weight: bold;
-}
+    .hero-content h1 {
+        font-size: 36px;
+    }
 
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-}
+    .hero-content p {
+        font-size: 18px;
+    }
 
-nav li {
-  margin: 0 10px;
-}
+    section h2 {
+        font-size: 28px;
+    }
 
-nav a {
-  color: #fff;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
+    .timeline-icon {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
 
-nav a:hover {
-  color: #ccc;
-}
-
-.hero {
-  max-width: 800px;
-  margin: 40px auto 0;
-  text-align: center;
-}
-
-.hero h1 {
-  font-size: 36px;
-  margin-bottom: 20px;
-}
-
-.hero p {
-  font-size: 18px;
-  line-height: 1.5;
-}
-
-/* Estilos de las secciones */
-section {
-  padding: 60px 20px;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-section h2 {
-  font-size: 28px;
-  margin-top: 0;
-  margin-bottom: 40px;
-}
-
-.experience-item, .education-item, .certification-item, .contact-item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 30px;
-}
-
-.experience-item i, .education-item i, .certification-item i, .contact-item i {
-  font-size: 24px;
-  margin-right: 20px;
-  color: #333;
-}
-
-.experience-item h3, .education-item h3, .certification-item h3 {
-  margin-top: 0;
-  margin-bottom: 5px;
-}
-
-.experience-item p, .education-item p, .certification-item p, .contact-item p {
-  margin: 0;
-}
-
-/* Estilos del footer */
-footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 20px;
-}
-
-/* Estilos responsivos */
-@media (max-width: 768px) {
-  nav {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .logo {
-    margin-bottom: 20px;
-  }
-
-  nav ul {
-    flex-direction: column;
-  }
-
-  nav li {
-    margin: 10px 0;
-  }
-
-  .hero h1 {
-    font-size: 28px;
-  }
-
-  .hero p {
-    font-size: 16px;
-  }
-
-  section h2 {
-    font-size: 24px;
-  }
+    .timeline-content h3 {
+        font-size: 20px;
+    }
 }
