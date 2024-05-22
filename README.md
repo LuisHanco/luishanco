@@ -12,7 +12,7 @@
 
 - 📫 Cómo contactar conmigo **luishanco20@gmail.com**
 
-- 📄 Mi resumen [https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view](https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view)
+- 📄 Mi resumen [https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view](Google Docs Viewer)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
