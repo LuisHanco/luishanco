@@ -4,15 +4,17 @@
 <img align="right" alt="coding" width='500' src="logito.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="luishanco" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Devops y DSA**
 
-- 👨‍💻 Mis proyectos están disponibles en 👉 <a href="https://luishanco-portfolio.netlify.app" color="red" size="4" face="Arial" >Aqui</a> 👈
-
-- 📽️ Echa un vistazo a mi canal de YT [https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA](https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA)
 
 - 📄 Mi Hoja de Vida 👉 <a href="https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view" color="red" size="4" face="Arial" >Aqui</a> 👈
-- 
-- 📫 Cómo contactar conmigo **luishanco20@gmail.com**
+
+- 🌱 Actualmente estoy aprendiendo **Devops y DSA**
+
+- 👨‍💻 Mis proyectos están disponibles 👉 <a href="https://luishanco-portfolio.netlify.app" color="red" size="4" face="Arial" >Aqui</a> 👈
+
+- 📽️ Echa un vistazo a mi canal de YT [https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA](https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA)
+  
+- 📫 Enviame un mensaje **luishanco20@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
