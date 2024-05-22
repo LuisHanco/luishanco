@@ -6,11 +6,11 @@
 
 
 
-- 📄 Mi Hoja de Vida 👉 <a href="https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view" color="red" size="4" face="Arial" >Aqui</a> 👈
+- 📄 Mi Hoja de Vida 👉 <a href="https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view" color="red" size="4" face="Arial" target="_blank" >Aqui</a> 👈
 
 - 🌱 Actualmente estoy aprendiendo **Devops y DSA**
 
-- 👨‍💻 Mis proyectos están disponibles 👉 <a href="https://luishanco-portfolio.netlify.app" color="red" size="4" face="Arial" >Aqui</a> 👈
+- 👨‍💻 Mis proyectos están disponibles 👉 <a href="https://luishanco-portfolio.netlify.app" color="red" size="4" face="Arial" target="_blank" >Aqui</a> 👈
 
 - 📽️ Echa un vistazo a mi canal de YT [https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA](https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA)
   
