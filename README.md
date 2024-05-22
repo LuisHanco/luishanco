@@ -12,7 +12,7 @@
 
 - 📫 Cómo contactar conmigo **luishanco20@gmail.com**
 
-- 📄 Mi resumen [[https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view](https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view)]([Google Docs Viewer](https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view))
+- 📄 Mi Hoja de Vida 👉 <a href="https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view" color="red" size="4" face="Arial" >Aqui</a> 👈 
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
