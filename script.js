@@ -1,4 +1,3 @@
-
 // Función para alternar el menú de navegación en dispositivos móviles
 const menuToggle = document.querySelector('.menu-toggle');
 const menu = document.querySelector('.menu');
@@ -47,10 +46,3 @@ window.addEventListener('load', () => {
     behavior: 'smooth'
   });
 });
-=======
-// Función para suavizar el desplazamiento a los enlaces del menú
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-  anchor.addEventListener('click', function (e) {
-    e.preventDefault();
-    document.querySelector(this.getAttribute('href')).scrollIntoView({
->>>>>>> 6389584962e871fc44305cd0baf040dd118150ac
