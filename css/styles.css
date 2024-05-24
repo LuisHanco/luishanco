@@ -46,3 +46,8 @@ body{
     border-bottom-left-radius: .6rem;
 
 }
+
+.wrapper .cover-right .turn{
+    transform: rotateY(180deg);
+
+}
