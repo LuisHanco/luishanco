@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Devops y DSA**
 
-- 👨‍💻 Mis proyectos están disponibles 👉 <a href="https://luishanco-portfolio.netlify.app" color="red" size="4" face="Arial" target="_blank" >Aqui</a> 👈
+- 👨‍💻 Proyectos Disponibles 👉 <a href="https://luishanco-portfolio.netlify.app" >Aqui</a> 👈
 
 - 📽️ Echa un vistazo a mi canal de YT 👉<a href="https://www.youtube.com/channel/UCzFseKlmUAEPaf3pzaWjhRA" >Aqui </a>👈
   
