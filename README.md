@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola👋, Soy Luis Hanco</h1>
 <h3 align="center">Desarrollador web full-stack</h3>
-<img align="right" alt="coding" width='400' src="logito.png">
+<img align="right" alt="coding" width='450' src="logito.png">
 
 - 📄 Mi Hoja de Vida 👉 <a href="https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view" color="red" size="4" face="Arial" target="_blank" >Aqui</a> 👈
 
