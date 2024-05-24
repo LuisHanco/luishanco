@@ -34,3 +34,13 @@ body{
     height: 45rem;
     background: red;
 }
+
+.wrapper .cover{
+
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    background: var(--cover-color);
+    box-shadow: var(--box-shadow);
+
+}
