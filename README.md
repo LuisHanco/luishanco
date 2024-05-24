@@ -2,10 +2,16 @@
 <h1 align="center">Hola👋, Soy Luis Hanco</h1>
 <h3 align="center">Desarrollador web full-stack</h3>
 <img align="right" alt="coding" width='500' src="logito.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="luishanco" /> </p>
 
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="luishanco" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid28&show_icons=true&locale=en&layout=compact" alt="luishanco" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid28&show_icons=true&locale=en" alt="luishanco" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid28" alt="luishanco" /></a> </p>
+
+*/
 - 📄 Mi Hoja de Vida 👉 <a href="https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view" color="red" size="4" face="Arial" target="_blank" >Aqui</a> 👈
 
 - 🌱 Actualmente estoy aprendiendo **Devops y DSA**
