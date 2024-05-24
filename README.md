@@ -2,8 +2,8 @@
 <h1 align="center">Hola👋, Soy Luis Hanco</h1>
 <h3 align="center">Desarrollador web full-stack</h3>
 <img align="right" alt="coding" width='500px' src="logito.png">
-
-- 📄 Mi Hoja de Vida 👉 <a href="https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view" color="red" size="4" face="Arial" target="_blank" >Aqui</a> 👈
+| [📄 Mi Hoja de Vida 👉](https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view)                             | [Live Demo]([https://50projects50days.com/projects/expanding-cards/](https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view))               
+-  <a href="https://drive.google.com/file/d/1yB9wHjW7GXUWxXUwiUddCX6yhLX-1O73/view" color="red" size="4" face="Arial" target="_blank" >Aqui</a> 👈
 
 - 🌱 Actualmente estoy aprendiendo **Devops y DSA**
 
