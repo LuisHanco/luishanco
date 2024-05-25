@@ -26,15 +26,19 @@ body {
   align-items: center;
   min-height: 100vh;
   background-color: var(--bg-color);
+  color: var(--text-color);
 }
 
 .wrapper {
   position: relative;
   width: 66rem;
-  height: 38rem;
+  height: 40rem;
+  padding: 2rem;
 }
 .wrapper .cover {
   position: absolute;
+  top: 0;
+  left: 0;
   width: 50%;
   height: 100%;
   background: var(--cover-color);
@@ -45,4 +49,97 @@ body {
 }
 .wrapper .cover-right.turn {
   transform: rotateY(180deg);
+}
+.wrapper .cover-left {
+  z-index: -1;
+}
+.wrapper .book {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.wrapper .book .book-page {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  background: var(--pages-color);
+  box-shadow: 0 0 0.6rem rgba(0, 0, 0, 0.1);
+  display: flex;
+  padding: 2rem;
+}
+.wrapper .book .book-page .profile-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.wrapper .book .book-page .profile-page img {
+  max-width: 180px;
+  border-radius: 50%;
+  border: 0.25rem solid var(--main-color);
+  margin-bottom: 0.8rem;
+}
+.wrapper .book .book-page .profile-page h1 {
+  font-size: 2.7rem;
+  line-height: 1;
+}
+.wrapper .book .book-page .profile-page h3 {
+  font-size: 1.5rem;
+  color: var(--main-color);
+}
+.wrapper .book .book-page .profile-page .social-media {
+  margin: 0.6rem 0 0.8rem;
+}
+.wrapper .book .book-page .profile-page .social-media a {
+  display: inline-flex;
+  width: 2.5rem;
+  height: 2.5rem;
+  background-color: transparent;
+  border: var(--border);
+  border-radius: 50%;
+  color: var(--main-color);
+  font-size: 1.3rem;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  margin: 0 0.2rem;
+  transition: 0.5s;
+}
+.wrapper .book .book-page .profile-page .social-media a:hover {
+  background: var(--main-color);
+  color: var(--white-color);
+}
+.wrapper .book .book-page .profile-page p {
+  text-align: justify;
+}
+.wrapper .book .book-page .profile-page .btn-box {
+  margin: 1.2rem;
+}
+.wrapper .book .book-page .profile-page .btn-box .btn {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 9.5rem;
+  height: 3rem;
+  background-color: var(--main-color);
+  border: var(--border);
+  border-radius: 0.3rem;
+  font-size: 1rem;
+  color: var(--white-color);
+  font-weight: 500;
+  margin: 0 1rem;
+  transition: 0.5s;
+}
+.wrapper .book .book-page .profile-page .btn-box .btn:hover {
+  background-color: transparent;
+  color: var(--main-color);
+}
+.wrapper .book .book-page .profile-page .btn-box .btn:nth-child(2) {
+  background-color: transparent;
+  color: var(--main-color);
+}
+.wrapper .book .book-page .profile-page .btn-box .btn:nth-child(2):hover {
+  background-color: var(--main-color);
+  color: var(--white-color);
 }/*# sourceMappingURL=styles.css.map */
