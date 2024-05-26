@@ -32,7 +32,7 @@ body {
 .wrapper {
   position: relative;
   width: 66rem;
-  height: 40rem;
+  height: 45rem;
   padding: 2rem;
 }
 .wrapper .cover {
@@ -142,4 +142,77 @@ body {
 .wrapper .book .book-page .profile-page .btn-box .btn:nth-child(2):hover {
   background-color: var(--main-color);
   color: var(--white-color);
+}
+.wrapper .book .book-page.page-right {
+  position: absolute;
+  right: 0;
+  transform-style: preserve-3d;
+}
+.wrapper .book .book-page.page-right .page-front,
+.wrapper .book .book-page.page-right .page-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--pages-color);
+  padding: 1.5rem 2rem;
+}
+.wrapper .book .book-page.page-right .page-front {
+  transform: rotateY(0deg) translateZ(1px);
+}
+.wrapper .book .book-page.page-right .page-front .workeduc-box {
+  border-left: var(--border);
+}
+.wrapper .book .book-page.page-right .page-front .workeduc-box .workeduc-content {
+  position: relative;
+  padding-left: 1.6rem;
+  margin-bottom: 1.2rem;
+  text-align: justify;
+}
+.wrapper .book .book-page.page-right .page-front .workeduc-box .workeduc-content .year {
+  color: var(--main-color);
+}
+.wrapper .book .book-page.page-right .page-front .workeduc-box .workeduc-content .year i {
+  margin-right: 0.4rem;
+}
+.wrapper .book .book-page.page-right .page-front .workeduc-box .workeduc-content::before {
+  content: " ";
+  position: absolute;
+  top: 0;
+  left: -0.65rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  background: var(--main-color);
+  border-radius: 50%;
+}
+.wrapper .book .book-page.page-right .page-front .page-back {
+  transform: rotateY(180deg) translateZ(1px);
+}
+.wrapper .book .book-page.page-right .page-front .number-page {
+  position: absolute;
+  bottom: 1.2rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.wrapper .book .book-page.page-right .page-front .nextprec-btn {
+  position: absolute;
+  bottom: 0.9rem;
+  right: 1.5rem;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+  font-size: 2rem;
+  color: var(--second-text-color);
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+}
+.wrapper .book .book-page.page-right .page-front .nextprec-btn:hover {
+  color: var(--main-color);
+}
+.wrapper .book .book-page.page-right .title {
+  text-align: center;
+  margin-bottom: 1rem;
 }/*# sourceMappingURL=styles.css.map */
